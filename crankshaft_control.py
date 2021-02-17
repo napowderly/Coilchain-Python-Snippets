@@ -4,7 +4,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from math import pi
-import control as ct
 import time
 
 #Sampling rate and parameters init
